@@ -1,3 +1,7 @@
 venv/
 __pycache__/
 *.csv
+# The .gitignore file prevents unnecessary or sensitive files 
+# (like virtual environment folders, cache files, and datasets) 
+# from being added to Git.weather_app.log
+weather_env/
