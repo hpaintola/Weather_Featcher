@@ -48,3 +48,5 @@
 2025-01-02 14:41:15,449 - INFO - Weather data fetched successfully.
 2025-01-02 14:41:15,454 - INFO - Weather data processed successfully.
 2025-01-02 14:41:15,463 - INFO - Weather data saved to weather_data.csv.
+2025-01-02 18:43:50,283 - INFO - Configuration file loaded successfully.
+2025-01-02 18:43:54,803 - ERROR - Error in city selection: invalid literal for int() with base 10: 'clear'

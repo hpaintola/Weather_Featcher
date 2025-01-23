@@ -5,3 +5,4 @@ __pycache__/
 # (like virtual environment folders, cache files, and datasets) 
 # from being added to Git.weather_app.log
 weather_env/
+config.json
